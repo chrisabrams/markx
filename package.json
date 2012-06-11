@@ -13,7 +13,7 @@
     "commander": "*",
     "highlight.js": "*",
     "marked": "*",
-    "masher": "*",
+    "masher": "git+ssh://git@github.com:chrisabrams/masher.git",
     "jade": "*",
     "node-static": "*",
     "resistance": "*",
